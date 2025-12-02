@@ -1,40 +1,38 @@
-# AugustineEdeh - Cybersecurity-SOC-GRC | CyberNova Academy - Cybersecurity SOC & GRC
+# Augustine Edeh - Cybersecurity-SOC-GRC | CyberNova Academy - Cybersecurity SOC & GRC
 
 # Hello, I'm Augustine Edeh
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/augustine-edeh-3456a239b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity professional specialising in Security Operations (SOC) and Governance, Risk & Compliance (GRC), focused on detecting and responding to threats while helping organisations align with industry frameworks such as ISO 27001, NIST CSF, and the ACSC Essential Eight. [memory:1][web:14]  
-My goal is to combine hands-on SOC skills (detection, investigation, incident response) with strong governance and risk practices to reduce cyber risk in real-world environments. [memory:1][web:17]
+I am a cybersecurity professional specialising in Security Operations (SOC) and Governance, Risk & Compliance (GRC), focused on detecting and responding to threats while helping organisations align with industry frameworks such as ISO 27001, NIST CSF, and the ACSC Essential Eight.  
+My goal is to combine hands-on SOC skills (detection, investigation, incident response) with strong governance and risk practices to reduce cyber risk in real-world environments.
 
 ---
 
 ## About CyberNova Academy (Cohort: Cybersecurity SOC & GRC)
-CyberNova Academy’s SOC & GRC Cohort is a hands-on, job-ready program designed to help learners build real SOC analyst capability (detection, triage, investigation, response) and GRC capability (risk, compliance, ISO 27001, Essential Eight alignment, audit readiness). [web:17]  
+CyberNova Academy’s SOC & GRC Cohort is a hands-on, job-ready program designed to help learners build real SOC analyst capability (detection, triage, investigation, response) and GRC capability (risk, compliance, ISO 27001, Essential Eight alignment, audit readiness).  
 
 Learners graduate with:
-- A GitHub portfolio with practical SOC labs and write-ups. [web:16][web:22]
+- A GitHub portfolio with practical SOC labs and write-ups.
 - Evidence of detection engineering (KQL/SPL, dashboards, alerts, use cases).
-- Incident response workflow experience (tickets, cases, playbooks, reports). [web:17]
-- GRC artifacts (risk register, policies, ISMS scope, audit evidence pack). [web:14]
-- Real-world tooling familiarity (SIEM, EDR, SOAR, threat intel, logging). [web:17]
-
-> :white_check_mark: This README is also a portfolio template: replace placeholder links with your own repos and completed projects. [web:16]
+- Incident response workflow experience (tickets, cases, playbooks, reports).
+- GRC artifacts (risk register, policies, ISMS scope, audit evidence pack).
+- Real-world tooling familiarity (SIEM, EDR, SOAR, threat intel, logging).
 
 ---
 
-## About Me (SOC & GRC Professional)
-As a SOC and GRC-focused cybersecurity professional, I work at the intersection of technical detection/response and governance-driven risk management. [memory:1][web:26]  
-My interests include building SOC workflows, designing detections in SIEM platforms, and creating governance artifacts that map security controls to business risk and compliance requirements. [memory:1][web:14]
+## About Augustine EDEH, SOC & GRC Professional
+As a SOC and GRC-focused cybersecurity professional, I work at the intersection of technical detection/response and governance-driven risk management.
+My interests include building SOC workflows, designing detections in SIEM platforms, and creating governance artifacts that map security controls to business risk and compliance requirements.
 
 What I focus on:
-- Hands-on SOC skills: log analysis, alert triage, threat hunting, and incident response in enterprise-style environments. [web:16][web:19]
-- GRC capability: risk assessments, control design, ISO 27001 and Essential Eight alignment, policy and audit preparation. [web:14][web:26]
-- Career development: building a strong portfolio on GitHub, documenting labs clearly, and continuously improving technical and governance skills. [memory:2][web:19]
+- Hands-on SOC skills: log analysis, alert triage, threat hunting, and incident response in enterprise-style environments.
+- GRC capability: risk assessments, control design, ISO 27001 and Essential Eight alignment, policy and audit preparation.
+- Career development: building a strong portfolio on GitHub, documenting labs clearly, and continuously improving technical and governance skills.
 
 Contact / Links:
-- LinkedIn: https://linkedin.com/in/your-link
-- Portfolio: https://github.com/yourusername
-- Email: yourname@email.com
+- LinkedIn: https://linkedin.com/in/augustine-edeh-3456a239b
+- Portfolio: https://github.com/augustineedeh2411-create
+- Email: augustineedeh2411@email.com
 
 ---
 
