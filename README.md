@@ -37,40 +37,40 @@ Contact / Links:
 ---
 
 ## Objective
-My objective is to build a career as a SOC and GRC professional, contributing to detection, response, and governance in modern enterprises. [memory:1][web:26]  
-I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC analyst roles where I can apply detection engineering, incident handling, and risk management to help organisations strengthen their security posture. [memory:1][web:17]
+My objective is to build a career as a SOC and GRC professional, contributing to detection, response, and governance in modern enterprises.
+I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC analyst roles where I can apply detection engineering, incident handling, and risk management to help organisations strengthen their security posture.
 
 ---
 
-## SOC + GRC Cohort Outline (Edit to Match Your Official Outline)
+## SOC + GRC Cohort Outline
 
 ### SOC Stream (Blue Team / Detection / Response)
 - SOC Foundations: SOC roles (Tier 1/2/3), SLAs, escalation, ticket hygiene, shift handover.
 - Networking for SOC: TCP/IP, DNS, HTTP(S), TLS, email, proxies, VPN, NAT.
 - Windows & AD for SOC: logs, authentication, Kerberos, event IDs, common attack paths.
 - Linux for SOC: auth logs, systemd, bash basics, cron, suspicious persistence.
-- Log Management: telemetry sources, normalization, field mapping, enrichment. [web:16]
-- Detection Engineering: Sigma → SIEM rules, baseline vs anomaly, false positive tuning. [web:22]
+- Log Management: telemetry sources, normalization, field mapping, enrichment.
+- Detection Engineering: Sigma → SIEM rules, baseline vs anomaly, false positive tuning.
 - Threat Hunting: hypothesis-based hunting, pivoting, timelines, investigation notes.
-- Incident Response: triage → containment → eradication → recovery → lessons learned. [web:26]
+- Incident Response: triage → containment → eradication → recovery → lessons learned.
 - SOAR Automation: playbooks, alert enrichment, auto-ticketing, auto-containment.
-- Reporting: executive summaries, technical summaries, IOCs, MITRE ATT&CK mapping. [web:22]
+- Reporting: executive summaries, technical summaries, IOCs, MITRE ATT&CK mapping.
 
 ### GRC Stream (ISO 27001 / NIST / Essential Eight)
-- GRC Foundations: governance vs risk vs compliance, three lines model, assurance. [web:26]
-- Risk Management: risk statements, likelihood/impact, inherent vs residual risk. [web:23]
-- ISO 27001 ISMS: scope, context, leadership, planning, support, operation, performance, improvement. [web:14]
-- Controls & Mapping: ISO 27001 Annex A mapping to NIST CSF, CIS Controls, Essential Eight. [web:14]
-- Policy & Procedures: acceptable use, access control, incident management, logging. [web:26]
-- Audit Prep: evidence collection, audit trails, control testing, nonconformities, CAPA. [web:17]
-- Third-Party Risk: vendor assessment, security questionnaires, contracts, due diligence. [web:26]
-- Governance Artifacts: risk register, SoA, ISMS scope, control implementation plan. [web:14]
+- GRC Foundations: governance vs risk vs compliance, three lines model, assurance.
+- Risk Management: risk statements, likelihood/impact, inherent vs residual risk.
+- ISO 27001 ISMS: scope, context, leadership, planning, support, operation, performance, improvement.
+- Controls & Mapping: ISO 27001 Annex A mapping to NIST CSF, CIS Controls, Essential Eight.
+- Policy & Procedures: acceptable use, access control, incident management, logging.
+- Audit Prep: evidence collection, audit trails, control testing, nonconformities, CAPA.
+- Third-Party Risk: vendor assessment, security questionnaires, contracts, due diligence.
+- Governance Artifacts: risk register, SoA, ISMS scope, control implementation plan.
 
 ---
 
 ## Skills
 
-| Skill | Associated Project (Template) |
+| Skill | Associated Project |
 |------------------------------------------------|---------------------------------------------------------------------|
 | SIEM Implementation and Log Analysis | <a href="https://github.com/yourusername/detection-lab">Detection Lab</a> |
 | Network Traffic Monitoring and Attack Detection| <a href="https://github.com/yourusername/detection-lab">Detection Lab</a> |
@@ -79,7 +79,7 @@ I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC a
 | Case Management with TheHive | <a href="https://github.com/yourusername/soc-automation">SOC Automation Lab</a> |
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/yourusername/threat-hunting-pack">Threat Hunting Pack</a> |
 
-These skills and project structures align with common SOC and GRC portfolio expectations for entry-level and junior roles. [web:16][web:22]
+These skills and project structures align with common SOC and GRC portfolio expectations for entry-level and junior roles.
 
 ---
 
@@ -105,17 +105,17 @@ These skills and project structures align with common SOC and GRC portfolio expe
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-These tools are widely used in SOC environments and are commonly included in hands-on training for cyber operations and monitoring. [web:17][web:22]
+These tools are widely used in SOC environments and are commonly included in hands-on training for cyber operations and monitoring.
 
 ---
 
-## Tooling I Work With (Templates)
+## Tools I Work With
 
 ### Logging / Telemetry Sources
-- Windows Event Logs (Security, Sysmon, PowerShell). [web:16]
+- Windows Event Logs (Security, Sysmon, PowerShell).
 - Linux auth logs (auth.log / secure), syslog.
 - Firewall / proxy logs (template).
-- Cloud logs: Azure Activity Logs, Microsoft 365 logs, AWS CloudTrail (where applicable). [web:17]
+- Cloud logs: Azure Activity Logs, Microsoft 365 logs, AWS CloudTrail (where applicable).
 
 ### SIEM Platforms
 - Microsoft Sentinel (KQL) — Docs: https://learn.microsoft.com/azure/sentinel/
@@ -149,14 +149,14 @@ These tools are widely used in SOC environments and are commonly included in han
 - OpenVAS / Greenbone — https://www.greenbone.net/
 
 ### Ticketing / Case Workflow
-- Jira / ServiceNow-style workflow (template). [web:19]
+- Jira / ServiceNow-style workflow (template).
 - Evidence-driven case notes, timeline, containment actions.
 
 ### GRC Frameworks & Standards
 - ISO/IEC 27001 (ISMS).
 - NIST Cybersecurity Framework (CSF).
 - CIS Controls.
-- ACSC Essential Eight (Australia). [web:14]
+- ACSC Essential Eight (Australia).
 
 ---
 
@@ -169,26 +169,26 @@ These tools are widely used in SOC environments and are commonly included in han
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-Replace or remove badges so they only show certifications you actually hold, aligning with best practice for honest portfolio representation. [web:21][web:24]
+Replace or remove badges so they only show certifications you actually hold, aligning with best practice for honest portfolio representation.
 
 ---
 
 ## Projects – Detection Lab & SOC/GRC Portfolio
 
 ### 1) Detection Lab (SIEM + Telemetry + Detections)
-Goal: Build a detection lab that collects endpoint and network telemetry and triggers alerts mapped to MITRE ATT&CK. [web:22]  
+Goal: Build a detection lab that collects endpoint and network telemetry and triggers alerts mapped to MITRE ATT&CK.
 
 Repo (template):
 - Detection Lab Repo: https://github.com/yourusername/detection-lab
 
 Deliverables:
 - Data sources connected (Sysmon, Windows Security Events, Zeek/Suricata).
-- 10 detections (5 basic + 5 advanced) with description, log source, query/rule, tuning notes, MITRE mapping. [web:22]
+- 10 detections (5 basic + 5 advanced) with description, log source, query/rule, tuning notes, MITRE mapping.
 - Dashboards / workbooks.
 - A short incident simulation with alert screenshots.
 
 ### 2) SOC Automation Lab (SOAR + Case Management)
-Goal: Automate alert enrichment and response, and manage incidents like a real SOC. [web:16]  
+Goal: Automate alert enrichment and response, and manage incidents like a real SOC. 
 
 Repo (template):
 - SOC Automation Repo: https://github.com/yourusername/soc-automation
@@ -196,10 +196,10 @@ Repo (template):
 Deliverables:
 - Shuffle playbook(s): enrichment (VirusTotal/AbuseIPDB), notifications, ticket creation.
 - TheHive case template (severity, tasks, IOCs, timeline, response actions).
-- Post-incident report template (PDF/Markdown). [web:19]
+- Post-incident report template (PDF/Markdown).
 
 ### 3) Threat Hunt Pack (Hunt Queries + Investigation Notes)
-Goal: Create a repeatable hunting pack for common attacker behaviours. [web:22]  
+Goal: Create a repeatable hunting pack for common attacker behaviours.  
 
 Repo (template):
 - Threat Hunting Repo: https://github.com/yourusername/threat-hunting-pack
@@ -210,7 +210,7 @@ Deliverables:
 - 3 hunt write-ups with screenshots and conclusions.
 
 ### 4) Incident Response Casebook (Tier 1 → Tier 2 Ready)
-Goal: Build a portfolio of incidents investigated end-to-end. [web:26]  
+Goal: Build a portfolio of incidents investigated end-to-end. 
 
 Repo (template):
 - IR Casebook Repo: https://github.com/yourusername/incident-response-casebook
@@ -219,10 +219,10 @@ Include use cases like:
 - Phishing triage and malicious URL investigation.
 - Brute force / password spray detection and response.
 - Malware execution (PowerShell) hunt and containment.
-- Suspicious admin activity / privilege escalation. [web:22]
+- Suspicious admin activity / privilege escalation. 
 
 ### 5) GRC Portfolio Pack (ISO 27001 + Risk + Audit Evidence)
-Goal: Show that you can work in GRC and support audits and compliance activities. [web:14][web:26]  
+Goal: Show that you can work in GRC and support audits and compliance activities.
 
 Repo (template):
 - GRC Portfolio Repo: https://github.com/yourusername/grc-iso27001-pack
@@ -232,10 +232,10 @@ Deliverables:
 - Statement of Applicability (SoA) (template).
 - Risk Register (inherent/residual) (template).
 - 5 policies (AUP, Access Control, Logging, Incident Response, Vendor Risk).
-- Audit evidence pack (how controls are proved and monitored). [web:17]
+- Audit evidence pack (how controls are proved and monitored).
 
 ### 6) Capstone Project (SOC + GRC Combined)
-Goal: Demonstrate that you can operate as a SOC analyst and translate work into governance and risk artifacts. [web:26]  
+Goal: Demonstrate that you can operate as a SOC analyst and translate work into governance and risk artifacts.  
 
 Repo (template):
 - Capstone Repo: https://github.com/yourusername/soc-grc-capstone
@@ -245,7 +245,7 @@ Capstone deliverables:
 - Executive report (1–2 pages).
 - Technical report with IOCs and timelines.
 - GRC mapping: risks identified + control recommendations (ISO 27001/NIST/Essential Eight).
-- Treatment plan with priorities and owners. [web:14]
+- Treatment plan with priorities and owners.
 
 ---
 
@@ -267,18 +267,18 @@ Capstone deliverables:
 - Risk Register Template: https://github.com/yourusername/templates/risk-register
 - SoA Template: https://github.com/yourusername/templates/statement-of-applicability
 
-These links reflect common resources used by SOC and GRC professionals when building a learning and lab environment. [web:22][web:26]
+These links reflect common resources used by SOC and GRC professionals when building a learning and lab environment.
 
 ---
 
 ## How to Use This Repo
-1. Create a GitHub repository named exactly your GitHub username (for example, `AugustineEdeh`) so this README becomes your profile page. [web:16]  
+1. Create a GitHub repository named exactly your GitHub username (for example, `AugustineEdeh`) so this README becomes your profile page.
 2. Replace placeholder links (`yourusername`, example URLs) with your actual repositories and resources.  
 3. Add screenshots to an `/images` directory and reference them in this README.  
 4. Each week, add:
    - 1 lab write-up.
    - 1 detection or hunt query.
-   - 1 short reflection (“What I learned”). [web:19]
+   - 1 short reflection (“What I learned”).
 
 ---
 
