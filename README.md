@@ -191,7 +191,7 @@ Deliverables:
 Goal: Automate alert enrichment and response, and manage incidents like a real SOC. 
 
 Repo (template):
-- SOC Automation Repo: https://github.com/yourusername/soc-automation
+- SOC Automation Repo: https://github.com/augustineedeh2411-create/soc-automation
 
 Deliverables:
 - Shuffle playbook(s): enrichment (VirusTotal/AbuseIPDB), notifications, ticket creation.
@@ -267,22 +267,9 @@ Capstone deliverables:
 - Risk Register Template: https://github.com/yourusername/templates/risk-register
 - SoA Template: https://github.com/yourusername/templates/statement-of-applicability
 
-These links reflect common resources used by SOC and GRC professionals when building a learning and lab environment.
-
----
-
-## How to Use This Repo
-1. Create a GitHub repository named exactly your GitHub username (for example, `AugustineEdeh`) so this README becomes your profile page.
-2. Replace placeholder links (`yourusername`, example URLs) with your actual repositories and resources.  
-3. Add screenshots to an `/images` directory and reference them in this README.  
-4. Each week, add:
-   - 1 lab write-up.
-   - 1 detection or hunt query.
-   - 1 short reflection (“What I learned”).
-
 ---
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/your-link  
-- Email: yourname@email.com  
-- Portfolio: https://github.com/yourusername  
+- LinkedIn: https://linkedin.com/in/augustine-edeh-3456a239b  
+- Email: augustineedeh2411@email.com  
+- Portfolio: https://github.com/augustineedeh2411-create
